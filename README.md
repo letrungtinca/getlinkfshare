@@ -1,2 +1,2 @@
 # getlinkfshare
-Creat link download from fshare.vn
+Creat download link  from https://fshare.vn
